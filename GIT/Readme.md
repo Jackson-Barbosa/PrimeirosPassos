@@ -1,6 +1,4 @@
-Este é o meu primeiro "Readme".
-
-Comandos utilizados no bash:
+Primeiros comandos utilizados no bash:
 
     git init (cria a branch master);
 

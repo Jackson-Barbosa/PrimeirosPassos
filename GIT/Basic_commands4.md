@@ -6,6 +6,8 @@ Comandos para clonar Repositórios:
 
     abrir git bash
 
-    git clone <linkcopiado do repositorio>
+    git clone <linkcopiado do repositorio>>
+
+    git pull (pega só as alterações no projeto/atualiza projeto)
 
     
